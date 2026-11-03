@@ -2,4 +2,4 @@ Login Feature
 -------------
 Username validation
 Password validation
-Authentication successful
+Authentication successful using LDAP
